@@ -1,0 +1,1 @@
+Editor Scripts는 Editor폴더안에 있으면 된다
